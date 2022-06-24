@@ -13,3 +13,4 @@ lay out a 16x1 grid (16x td, 1x tr), make a loop & light up the correct step, ma
 
 ideas:
 use the OscillatorNode to make a synthesised kick body with a BiquadFilterNode on a sample for tops
+add a visualizer for the audio output based on https://wavesurfer-js.org/example/microphone/index.html
